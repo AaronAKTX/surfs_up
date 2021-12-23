@@ -5,19 +5,27 @@ Analysis was done on the temperature in Oahu during the months of June and Decem
 
 ## Results: 
 
-- ### June Temperature
+### June Temperatures                    
+ <img src = "https://github.com/AaronAKTX/surfs_up/blob/main/Resources/JuneTemps.PNG">
 
-<img src = "https://github.com/AaronAKTX/surfs_up/resources/JuneTemps.PNG">
+### Decemeber Temperatures
+<img src = "https://github.com/AaronAKTX/surfs_up/blob/main/Resources/DecTemps.PNG">
 
-- ### Decemeber Temperature
-The table above clearly shows a very high number of Senior level Engineers and Staff members are at retirement age.
+### Temperature observations
+- The average temperature in June is 75 degrees fahrenheit.
+  - 75 percent of the temperatures taken in the month of June are 73 degrees fahrenheit or higher - That is both great surfing and great ice cream weather.
+- The average temperature in December is 71 degrees fahrenheit.
+  - 75 percent of the temperatures taken in the month of December are 69 degrees fahrenheit or higher - That is both great surfing and great ice cream weather.
+- The temperature in two opposite times of year both average a nice temperature for ice cream and surfing and aren't that different from each other which seems to indicate that a year round ice cream/surf shop would be a great business.
 
 
 ## Summary
 
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Based on the data in the retiring_titles table, a total of 90,398 roles will need to be filled.
-After filtering out titles that had already ended and recalculating, 74,458 jobs will need to be filled.
+### Ice Cream and Surfing = the PERFECT combination
+Based on the temperature data, the ice cream/surf shop is a great idea. People who surf, can pretty much surf year round looking at the temperature. People who enjoy ice cream can eat year round without getting too cold. People who eat ice cream and surf will be in paradise with this combination.
+
+
+
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 If we go by the mentoring search in the challenge, there is not near enough retirement-ready employees to mentor the next generation. If we include every employee, not just employees born in 1965, there may be enough to get a good number of people mentored. It's also notable that there are many non-senior level positions that are the retirement age as well so, senior-level positions won't all be able to be filled internally. For example, looking at currently employed Senior Engineers in Production, 10189 are retiring. 3611 Engineers in Production are retiring as well, which will leave less than 9000 Engineers in Production. 9000 is less than 10,000+ Senior engineers retiring. Below is a table with current employee counts, retiring age employee counts, pct of title retiring broken down by department and title.
