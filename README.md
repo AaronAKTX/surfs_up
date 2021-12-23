@@ -1,25 +1,17 @@
 # Surfs Up
 
 ## Overview
-Analysis was done on the temperature in Oahu during the months of June and December. The weather stats were collected from stations in Oahu for June and December and then summarized and presented. The study was performed to provide information the would help determine whether or not a opening an ice cream and surf shop is an advisable business plan.
+Analysis was done on the temperature in Oahu during the months of June and December. The weather stats for these months were collected from stations in Oahu then summarized and presented. The study was performed to provide information that would help determine whether or not a opening an ice cream and surf shop is an advisable business plan.
 
 ## Results: 
 
-- The Retirement Age Employees by Job Title
+- ### June Temperature
 
-<img src = "https://github.com/AaronAKTX/Pewlett-Hackard-Analysis/blob/main/Retiring_Per_Title.PNG">
+<img src = "https://github.com/AaronAKTX/surfs_up/resources/JuneTemps.PNG">
 
-- Senior Level Positioned Employees will be Moving on Soon.
+- ### Decemeber Temperature
 The table above clearly shows a very high number of Senior level Engineers and Staff members are at retirement age.
 
-- Management is Fine
-Only two managers are in the retirement age range, so let's not go looking to hire more managers.  
-
-- The Mentorship Program Can Help Prepare for the Tsunami of Retirees
-A transitioning program that will allow older employees to begin the retirement process while also contributing to the maintenance of the high quality of work is a great idea. Only searching for people born in 1965, which is completely arbitrary, yielded a large list of 1549 employees that could mentor newer employees until they were at the point of taking Senior level responsibility. Expanding the age range or looking instead at years with the Pewlett-Hackard would definitely lead to even more potential mentors.
-
-- Mentoring won't be enough alone
-Even expanding the mentorship won't be enough to compensate for the total number of retirees. Pewlett-Hackard will need to go on an immediate, extensive talent search and expect to have to pay these young whippersnappers.
 
 ## Summary
 
